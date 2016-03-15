@@ -1,0 +1,22 @@
+{
+	"name": "prawee/yii2-widgets",
+	"description": "yii2 widgets alert ",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","alert"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "prawee wongsa",
+			"email": "konkeanweb@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"prawee\\widgets\\": ""
+		}
+	}
+}

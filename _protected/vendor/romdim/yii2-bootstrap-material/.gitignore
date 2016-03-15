@@ -1,0 +1,11 @@
+# phpstorm project files
+.idea
+
+# composer itself is not needed
+composer.phar
+
+# vendor folder
+vendor
+
+# composer lock file
+composer.lock

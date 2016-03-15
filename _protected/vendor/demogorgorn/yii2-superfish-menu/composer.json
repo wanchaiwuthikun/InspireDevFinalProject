@@ -1,0 +1,23 @@
+{
+	"name": "demogorgorn/yii2-superfish-menu",
+	"description": "Yii2 superfish jQuery menu widget",
+	"keywords": ["menu", "superfish", "yii", "extension", "widget"],
+	"homepage": "https://github.com/demogorgorn/yii2-superfish-menu",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Oleg Martemjanov",
+			"email": "demogorgorn@gmail.com",
+			"homepage" : "http://foreign.by"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"demogorgorn\\superfish\\": ""
+		}
+	}
+}
